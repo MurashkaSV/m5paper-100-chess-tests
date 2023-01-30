@@ -1,5 +1,6 @@
 # m5paper-100-chess-tests
 Development of the program "One Hundred Chess Tests" with a detailed explanation and comments.
+![Chess_test1](https://user-images.githubusercontent.com/123604180/215561834-b665babd-4bc5-4c52-ac05-12b1b60a2625.png)
 
  I propose to get acquainted with examples of programming this device
 having developed a not very complicated program with a detailed explanation and
