@@ -18,6 +18,7 @@ condition.
 sleep mode - power saving mode. To do this, look at the solution of the position
 and press the up button. the device will report the remaining energy in miles volts and
 that it has gone into sleep mode.
+![Chess_test3](https://user-images.githubusercontent.com/123604180/215562811-cad6c16e-82f6-4ea2-a36b-5a48af777c17.png)
 
   Now the device does not respond to simple button presses and does not consume energy.
 To wake up the device, press the button inward and hold for 5-7 seconds.
