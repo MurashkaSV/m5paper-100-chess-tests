@@ -30,3 +30,6 @@ that it has gone into sleep mode.
 
   Now the device does not respond to simple button presses and does not consume energy.
 To wake up the device, press the button inward and hold for 5-7 seconds.
+
+![Steps1](https://user-images.githubusercontent.com/123604180/216712285-1276b2e2-5c8a-470b-8312-e1b1548cb60c.png)
+
