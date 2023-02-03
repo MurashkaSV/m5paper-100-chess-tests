@@ -1,5 +1,6 @@
 We draw a board.
 
+smesh_d - Offset from the top of the screen.
 
 ![Step1](https://user-images.githubusercontent.com/123604180/216608160-eb4640d3-11b6-44ef-9273-915effe656e3.png)
 
