@@ -53,5 +53,8 @@ smesh_d - Offset from the top of the screen.
 ![Step2](https://user-images.githubusercontent.com/123604180/216787816-8c9012dc-f10d-474e-9c4b-2457b26e6f90.png)
 
 the coordinates of the figure on the board (x,y)  x=0..7 , y=0..7
-
 (x*67+6, smesh_d+9+(7-y)*67);
+m_figur[1732] - array of encoded figure drawings
+m_fig_u[6] = { 0,198,470,768,1042,1440 } - array of pointers
+to the beginning of the drawing of the figure in the array m_figur[]
+
