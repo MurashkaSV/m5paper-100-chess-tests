@@ -48,12 +48,13 @@ smesh_d - Offset from the top of the screen.
   ![Step1a](https://user-images.githubusercontent.com/123604180/216630382-95083958-eb98-49d0-a49c-ec664f695169.png)
 
 ![Steps2](https://user-images.githubusercontent.com/123604180/216787825-f63eb3df-9759-453e-a252-533be7b8a9a1.png)
-![Steps2a](https://user-images.githubusercontent.com/123604180/216787823-9cb7b4b7-2fae-4a71-8f50-cec091c4207e.png)
+![Steps2a](https://user-images.githubusercontent.com/123604180/216792640-8c0e8927-fa65-4ac1-a1c1-71f30172684f.png)
+
 
 ![Step2](https://user-images.githubusercontent.com/123604180/216787816-8c9012dc-f10d-474e-9c4b-2457b26e6f90.png)
 
 ![Steps2b](https://user-images.githubusercontent.com/123604180/216790927-e1fbf246-5771-47e1-8e2e-655f25f97051.png)
 ![Steps2c](https://user-images.githubusercontent.com/123604180/216791343-cc8075d4-8acf-4025-9639-b1bffa79e026.png)
-![Steps2d](https://user-images.githubusercontent.com/123604180/216791056-d69a8c12-591f-4ab3-9674-e5a2b6b7c269.png)
+![Steps2d](https://user-images.githubusercontent.com/123604180/216792654-94bc0b26-d9f0-4fce-a222-5d8a67edf403.png)
 
 
