@@ -46,3 +46,9 @@ smesh_d - Offset from the top of the screen.
   Draw in squares of 4 fields
   
   ![Step1a](https://user-images.githubusercontent.com/123604180/216630382-95083958-eb98-49d0-a49c-ec664f695169.png)
+
+![Steps2](https://user-images.githubusercontent.com/123604180/216787825-f63eb3df-9759-453e-a252-533be7b8a9a1.png)
+
+![Steps2a](https://user-images.githubusercontent.com/123604180/216787823-9cb7b4b7-2fae-4a71-8f50-cec091c4207e.png)
+
+![Step2](https://user-images.githubusercontent.com/123604180/216787816-8c9012dc-f10d-474e-9c4b-2457b26e6f90.png)
