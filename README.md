@@ -54,5 +54,6 @@ smesh_d - Offset from the top of the screen.
 
 ![Steps2b](https://user-images.githubusercontent.com/123604180/216790927-e1fbf246-5771-47e1-8e2e-655f25f97051.png)
 ![Steps2c](https://user-images.githubusercontent.com/123604180/216790930-8995a4bc-a7a2-4ce1-b8ef-e3d34a542758.png)
-![Steps2d](https://user-images.githubusercontent.com/123604180/216790935-3e95d01e-3b09-4ce7-a35f-a241334b3204.png)
+![Steps2d](https://user-images.githubusercontent.com/123604180/216791056-d69a8c12-591f-4ab3-9674-e5a2b6b7c269.png)
+
 
