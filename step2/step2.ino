@@ -92,7 +92,7 @@ const uint8_t m_figur[1732] PROGMEM = // 198 272 298 274 398 292
 const uint16_t m_fig_u[6] PROGMEM = { 0,198,470,768,1042,1440 };
              
 uint8_t not_x = 1, not_y = 1, rb = 0, cod_col = 0, cod_cnt = 0 ;
-uint8_t col_fig = 6, col_fon = 1 ;
+uint8_t col_fig = 7, col_fon = 1 ;
 int smesh_d = 150, uk_mas = 0, uk_i = 0, uk_j = 0, uk_cnt = 0 ;  
 
 M5EPD_Canvas canvas(&M5.EPD);
