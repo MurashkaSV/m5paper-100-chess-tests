@@ -63,7 +63,9 @@ Wbat1   - battery charge                  Wbat1 = M5.getBatteryVoltage();
 
 u_pozic - Pointer to current position.
 When turned on, a random position is set depending on the battery charge.
-In the range (0..63)+20 = 20..83       u_pozic = ((Wbat1>>1)&0x003f)+20;
+In the range (0..63)+20 = 20..83
+
+u_pozic = ((Wbat1>>1)&0x003f)+20;
 
 u_menu - Current state  (0-position,1-animation) 
 
