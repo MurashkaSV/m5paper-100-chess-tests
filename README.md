@@ -59,7 +59,8 @@ smesh_d - Offset from the top of the screen.
 
 ![Steps3](https://user-images.githubusercontent.com/123604180/216845191-2a6ce4c9-c0d5-4c0c-a683-b78f5b771ce5.png)
 
-Wbat1   - battery charge       Wbat1 = M5.getBatteryVoltage();
+Wbat1   - battery charge                  Wbat1 = M5.getBatteryVoltage();
+
 u_pozic - Pointer to current position.
 When turned on, a random position is set depending on the battery charge.
 In the range (0..63)+20 = 20..83       u_pozic = ((Wbat1>>1)&0x003f)+20;
