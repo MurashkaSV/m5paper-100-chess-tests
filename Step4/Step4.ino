@@ -202,8 +202,8 @@ M5EPD_Canvas canvas1(&M5.EPD);
 
 void Out_Figur(uint8_t kod_fig){
  if ((kod_fig&8)==8) {
-  col_fig = 0;} else {
-  col_fig = 7;}
+  col_fig = 7;} else {
+  col_fig = 0;}
  if((not_x + not_y)&1==1){
   col_fon = 1;} else {
   col_fon = 0;}
@@ -247,14 +247,14 @@ void Out_Board() {
   not_x = (i&0x03)<<1;     not_y = (i&0x3c)>>2; 
   not_y = 7-not_y;  
   int8_t fig_o = (fig_r&7);
-  if ((fig_r&8)==0) {fig_o=fig_o+8;};
+  if ((fig_r&8)==1) {fig_o=fig_o+8;};
   if (fig_r!=0){Out_Figur(fig_o);
   canvas1.pushCanvas((not_x)*67+6, 159+not_y*67,UPDATE_MODE_GC16);};
   fig_r = (m_pozic[m_poz_u]&0x0f);
   not_x = ((i&0x03)<<1)+1; not_y = (i&0x3c)>>2;
   not_y = 7-not_y;  
   fig_o = (fig_r&7);
-  if ((fig_r&8)==0) {fig_o=fig_o+8;};
+  if ((fig_r&8)==1) {fig_o=fig_o+8;};
   if (fig_r!=0){Out_Figur(fig_o);
   canvas1.pushCanvas((not_x)*67+6, 159+not_y*67,UPDATE_MODE_GC16);};
   m_poz_u++;
