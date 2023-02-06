@@ -69,4 +69,12 @@ u_pozic = ((Wbat1>>1)&0x003f)+20;
 
 u_menu - Current state  (0-position,1-animation) 
 
- 
+![Steps4](https://user-images.githubusercontent.com/123604180/217103790-c517d920-5295-4d76-97a9-b1a1af0abda6.png)
+
+![Step4](https://user-images.githubusercontent.com/123604180/217103834-6cc0018d-6677-476a-b0a9-1808db24b682.png)
+
+![Steps4a](https://user-images.githubusercontent.com/123604180/217103886-3cdbeecd-2a37-4cfb-aaa5-b3f6b55c4851.png)
+
+![Steps4b](https://user-images.githubusercontent.com/123604180/217103914-1a01ed51-e897-47bc-aa5a-ca400eca9bf4.png)
+
+
