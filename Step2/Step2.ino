@@ -100,8 +100,8 @@ M5EPD_Canvas canvas1(&M5.EPD);
 
 void Out_Figur(uint8_t kod_fig){
  if ((kod_fig&8)==8) {
-  col_fig = 0;} else {
-  col_fig = 7;}
+  col_fig = 7;} else {
+  col_fig = 0;}
  if((not_x + not_y)&1==1){
   col_fon = 1;} else {
   col_fon = 0;}
@@ -137,10 +137,10 @@ void setup(){
  for (int8_t i = 0; i < 6; i++){
   int8_t fig_o = i+1;       // black pieces 1..6
   Out_Figur(fig_o);
-  canvas1.pushCanvas((1+i)*67+6, 159+4*67,UPDATE_MODE_GC16);
+  canvas1.pushCanvas((1+i)*67+6, 159+3*67,UPDATE_MODE_GC16);
   fig_o=fig_o+8;            // white pieces 1..6  
   Out_Figur(fig_o);
-  canvas1.pushCanvas((1+i)*67+6, 159+3*67,UPDATE_MODE_GC16);
+  canvas1.pushCanvas((1+i)*67+6, 159+4*67,UPDATE_MODE_GC16);
  }
 } 
 void loop(){
